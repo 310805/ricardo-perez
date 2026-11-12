@@ -1,0 +1,10 @@
+PORTAFOLIO RICARDO PEREZ
+
+Archivos para publicar:
+- index.html
+- portfolio.json
+- ricardo-retrato.jpg
+
+Sube la carpeta completa a Netlify Drop (https://app.netlify.com/drop).
+El archivo HTML incluye respaldo de la configuración para poder abrirlo también en modo local.
+Para publicar cambios posteriores realizados desde el editor, descarga portfolio.json y vuelve a subirlo junto con index.html, pero ten en cuenta que la configuración inicial incorporada en index.html se usa si no hay datos locales; publica ambos juntos con la configuración actualizada.
